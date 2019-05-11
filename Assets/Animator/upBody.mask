@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: upBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: 20add060_o
+    m_Weight: 1
+  - m_Path: 20b1b2f0_o
+    m_Weight: 1
+  - m_Path: 20b2e3d8_o
+    m_Weight: 1
+  - m_Path: 20b3aec8_o
+    m_Weight: 1
+  - m_Path: 20b4b180_o
+    m_Weight: 1
+  - m_Path: 20b5df78_o
+    m_Weight: 1
+  - m_Path: 20b6d800_o
+    m_Weight: 1
+  - m_Path: 20b7b958_o
+    m_Weight: 1
+  - m_Path: 20b8c898_o
+    m_Weight: 1
+  - m_Path: 20b27e80_o
+    m_Weight: 1
+  - m_Path: 20b067c0_o
+    m_Weight: 1
+  - m_Path: 20b448d0_o
+    m_Weight: 1
+  - m_Path: 20b750a8_o
+    m_Weight: 1
+  - m_Path: 20b875c0_o
+    m_Weight: 1
+  - m_Path: 20b63250_o
+    m_Weight: 1
+  - m_Path: 20b82208_o
+    m_Weight: 1
+  - m_Path: 20ba8ca0_o
+    m_Weight: 1
+  - m_Path: 20ba15b0_o
+    m_Weight: 1
+  - m_Path: 20bac3c0_o
+    m_Weight: 1
+  - m_Path: 20badf50_o
+    m_Weight: 1
+  - m_Path: 20bbe830_o
+    m_Weight: 1
+  - m_Path: 20bd23a0_o
+    m_Weight: 1
+  - m_Path: 20bd77c0_o
+    m_Weight: 1
+  - m_Path: 20bd9350_o
+    m_Weight: 1
+  - m_Path: 20bdd338_o
+    m_Weight: 1
+  - m_Path: 20be1360_o
+    m_Weight: 1
+  - m_Path: 20bea450_o
+    m_Weight: 1
+  - m_Path: 20bed110_o
+    m_Weight: 1
+  - m_Path: 20bf2380_o
+    m_Weight: 1
+  - m_Path: 20bf5148_o
+    m_Weight: 1
+  - m_Path: 20bfd6a0_o
+    m_Weight: 1
+  - m_Path: 20c1a288_o
+    m_Weight: 1
+  - m_Path: 20c1d050_o
+    m_Weight: 1
+  - m_Path: 20c2c238_o
+    m_Weight: 1
+  - m_Path: 20c3b440_o
+    m_Weight: 1
+  - m_Path: 20c4ce98_o
+    m_Weight: 1
+  - m_Path: 20c5ae08_o
+    m_Weight: 1
+  - m_Path: 20c06c68_o
+    m_Weight: 1
+  - m_Path: 20c45ee0_o
+    m_Weight: 1
+  - m_Path: 20c212e8_o
+    m_Weight: 1
+  - m_Path: 20c298a0_o
+    m_Weight: 1
+  - m_Path: 20c01938_o
+    m_Weight: 1
+  - m_Path: 20c09600_o
+    m_Weight: 1
+  - m_Path: 20c13488_o
+    m_Weight: 1
+  - m_Path: 20c15018_o
+    m_Weight: 1
+  - m_Path: 20c38008_o
+    m_Weight: 1
+  - m_Path: GuJia
+    m_Weight: 0
+  - m_Path: GuJia/C_root
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_chest
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_chest/D_head
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_L
+    m_Weight: 1
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_L/D_arm_L
+    m_Weight: 1
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_L/D_arm_L/D_forearm_L
+    m_Weight: 1
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_L/D_arm_L/D_forearm_L/D_hand_L
+    m_Weight: 1
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_R
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_R/D_arm_R
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_R/D_arm_R/D_forearm_R
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_chest/D_shouldere_R/D_arm_R/D_forearm_R/D_hand_R
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip/D_thigh_L
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip/D_thigh_L/D_shin_L
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip/D_thigh_L/D_shin_L/D_foot_L
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip/D_thigh_R
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip/D_thigh_R/D_shin_R
+    m_Weight: 0
+  - m_Path: GuJia/C_root/D_hip/D_thigh_R/D_shin_R/D_foot_R
+    m_Weight: 0
+  - m_Path: GuJia/D_forearm_ik_L
+    m_Weight: 0
+  - m_Path: GuJia/D_forearm_ik_R
+    m_Weight: 0
+  - m_Path: GuJia/D_forearm_pole_L
+    m_Weight: 0
+  - m_Path: GuJia/D_forearm_pole_R
+    m_Weight: 0
+  - m_Path: GuJia/D_head_ik
+    m_Weight: 0
+  - m_Path: GuJia/D_head_pole
+    m_Weight: 0
+  - m_Path: GuJia/D_shin_ik_L
+    m_Weight: 0
+  - m_Path: GuJia/D_shin_ik_R
+    m_Weight: 0
+  - m_Path: GuJia/D_shin_pole_L
+    m_Weight: 0
+  - m_Path: GuJia/D_shin_pole_R
+    m_Weight: 0
+  - m_Path: "\u67F1\u4F53_002"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_004"
+    m_Weight: 1

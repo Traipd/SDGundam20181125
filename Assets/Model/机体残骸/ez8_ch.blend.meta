@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: ac8194e76f0baf249afce1c78859f285
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _DGeom__21
+    100002: _DGeom__21_001
+    100004: _DGeom__21_002
+    100006: _DGeom__21_003
+    100008: _DGeom__21_004
+    100010: //RootNode
+    400000: _DGeom__21
+    400002: _DGeom__21_001
+    400004: _DGeom__21_002
+    400006: _DGeom__21_003
+    400008: _DGeom__21_004
+    400010: //RootNode
+    2100000: Material__54
+    2100002: Material__55
+    2100004: Material__56
+    2100006: Material__24
+    2100008: Material__25
+    2100010: Material__27
+    2100012: Material__28
+    2100014: Material__29
+    2100016: Material__30
+    2100018: Material__31
+    2100020: Material__32
+    2100022: Material__33
+    2100024: Material__34
+    2100026: Material__35
+    2100028: Material__15
+    2100030: Material__16
+    2100032: Material__17
+    2100034: Material__26
+    2100036: Material__21
+    2100038: Material__4
+    2100040: Material__5
+    2100042: Material__6
+    2100044: Material__7
+    2100046: Material__8
+    2100048: Material__9
+    2100050: Material__10
+    2100052: Material__11
+    2100054: Material__12
+    2100056: Material__13
+    2100058: Material__14
+    2100060: Material__18
+    2100062: Material__19
+    2100064: Material__20
+    2100066: Material__22
+    2100068: Material__23
+    2100070: Material__36
+    2100072: Material__37
+    2100074: Material__38
+    2100076: Material__39
+    2100078: Material__40
+    2100080: Material__41
+    2100082: Material__42
+    2100084: Material__43
+    2100086: Material__44
+    2100088: Material__45
+    2100090: Material__46
+    2100092: Material__47
+    2100094: Material__48
+    2100096: Material__49
+    2100098: Material__50
+    2100100: Material__51
+    2100102: Material__52
+    2100104: Material__53
+    2100106: Material__57
+    2100108: Material__58
+    2100110: Material__59
+    2300000: _DGeom__21
+    2300002: _DGeom__21_001
+    2300004: _DGeom__21_002
+    2300006: _DGeom__21_003
+    2300008: _DGeom__21_004
+    3300000: _DGeom__21
+    3300002: _DGeom__21_001
+    3300004: _DGeom__21_002
+    3300006: _DGeom__21_003
+    3300008: _DGeom__21_004
+    4300000: _DGeom__21_004
+    4300002: _DGeom__21_003
+    4300004: _DGeom__21_002
+    4300006: _DGeom__21_001
+    4300008: _DGeom__21
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

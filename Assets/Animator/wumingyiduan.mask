@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: wumingyiduan
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: arm
+    m_Weight: 1
+  - m_Path: arm_001
+    m_Weight: 1
+  - m_Path: chest
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
+  - m_Path: duanpao
+    m_Weight: 1
+  - m_Path: DunPai
+    m_Weight: 1
+  - m_Path: feiyi
+    m_Weight: 1
+  - m_Path: foot
+    m_Weight: 1
+  - m_Path: GuJia_001
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_head
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_root
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_leaf_up_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_leaf_up_Fr/D_leaf_up_then_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_leaf_up_Fr/P_leaf_up_then_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_leaf_up_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_leaf_up_Fr_001/D_leaf_up_then_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_leaf_up_Fr_001/P_leaf_up_then_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/D_leaf_down_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/D_leaf_down_Fr/D_leaf_down_then_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/D_leaf_down_Fr/P_leaf_down_then_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/D_leaf_down_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/D_leaf_down_Fr_001/D_leaf_down_then_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/D_leaf_down_Fr_001/P_leaf_down_then_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/P_leaf_down_Fr
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/D_root_then/P_leaf_down_Fr_001
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_root/P_leaf_up_Fr
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_root/P_leaf_up_Fr_001
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_L
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_L/D_arm_L
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_L/D_arm_L/D_forearm_L
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_L/D_arm_L/D_forearm_L/D_hand_L
+    m_Weight: 1
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_R/D_arm_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_R/D_arm_R/D_forearm_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/D_shouldere_R/D_arm_R/D_forearm_R/D_hand_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/IKC_root_then
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_chest/IKP_root_then
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_L
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_L/D_shin_L
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_L/D_shin_L/D_foot_L
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_L/D_shin_L/P_foot_L
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_R/D_shin_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_R/D_shin_R/D_foot_R
+    m_Weight: 0
+  - m_Path: GuJia_001/C_root/D_hip/D_thigh_R/D_shin_R/P_foot_R
+    m_Weight: 0
+  - m_Path: GuJia_001/D_forearm_ik_L
+    m_Weight: 1
+  - m_Path: GuJia_001/D_forearm_ik_R
+    m_Weight: 0
+  - m_Path: GuJia_001/D_forearm_pole_L
+    m_Weight: 1
+  - m_Path: GuJia_001/D_forearm_pole_R
+    m_Weight: 0
+  - m_Path: GuJia_001/D_head_ik
+    m_Weight: 1
+  - m_Path: GuJia_001/D_head_pole
+    m_Weight: 1
+  - m_Path: GuJia_001/D_shin_ik_L
+    m_Weight: 0
+  - m_Path: GuJia_001/D_shin_ik_R
+    m_Weight: 0
+  - m_Path: GuJia_001/D_shin_pole_L
+    m_Weight: 0
+  - m_Path: GuJia_001/D_shin_pole_R
+    m_Weight: 0
+  - m_Path: hand
+    m_Weight: 1
+  - m_Path: hand_001
+    m_Weight: 1
+  - m_Path: head
+    m_Weight: 1
+  - m_Path: head_001
+    m_Weight: 1
+  - m_Path: hip
+    m_Weight: 1
+  - m_Path: hip_001
+    m_Weight: 1
+  - m_Path: JianJia
+    m_Weight: 1
+  - m_Path: leg
+    m_Weight: 1
+  - m_Path: PiFeng
+    m_Weight: 1
+  - m_Path: TuiJia
+    m_Weight: 1
+  - m_Path: waist
+    m_Weight: 1
+  - m_Path: XiongJia
+    m_Weight: 1
+  - m_Path: YouTuiJia
+    m_Weight: 1
+  - m_Path: YouTuiJia_001
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_001"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_002"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_003"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_004"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_005"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_006"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_007"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_008"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_009"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_010"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_011"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_012"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_013"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_014"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_015"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_016"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_017"
+    m_Weight: 1
+  - m_Path: "\u67F1\u4F53_018"
+    m_Weight: 1
+  - m_Path: "\u7ACB\u65B9\u4F53"
+    m_Weight: 1
+  - m_Path: "\u7ACB\u65B9\u4F53_001"
+    m_Weight: 1
+  - m_Path: "\u7ACB\u65B9\u4F53_002"
+    m_Weight: 1
+  - m_Path: "\u7ACB\u65B9\u4F53_003"
+    m_Weight: 1
+  - m_Path: "\u7ACB\u65B9\u4F53_004"
+    m_Weight: 1
